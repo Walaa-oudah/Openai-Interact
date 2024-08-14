@@ -80,9 +80,9 @@ The chatbot is designed to engage with users by providing relevant and context-a
 
 <div> 
    
-<img src="https://github.com/user-attachments/assets/ece1cb26-2c59-46e3-b9c3-13cfe0429056" width="1100" height="200">
+<img src="https://github.com/user-attachments/assets/ece1cb26-2c59-46e3-b9c3-13cfe0429056" width="800" height="100">
 
-<img src="https://github.com/user-attachments/assets/af5405da-2321-4089-a5aa-31b41c69914b" width="1000" height="200">
+<img src="https://github.com/user-attachments/assets/af5405da-2321-4089-a5aa-31b41c69914b" width="800" height="100">
 
 </div>
    
