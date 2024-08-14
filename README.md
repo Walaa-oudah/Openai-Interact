@@ -49,14 +49,8 @@ The chatbot is designed to engage with users by providing relevant and context-a
 
 ## Instructions and Navigation
 
-- Install a web server (Apache).
-
-- Install a database (MySQL).
-
 - Use a server-side scripting language (Python).
-
-### [Download and Install XAMPP]: (https://www.apachefriends.org/download.html)
-
+  
 ### [Download and Install Visual Studio Code]: (https://code.visualstudio.com/download)
 
 - Install Required Libraries: Install the 'openai' library to enable communication with the OpenAI API.
